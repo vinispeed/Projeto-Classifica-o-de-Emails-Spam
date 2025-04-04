@@ -103,4 +103,4 @@ Contribuições para este projeto não são esperadas neste momento, pois trata-
 
 ## 8. Autor
 
-[Marcos Vinicius]
+Marcos Vinicius da Silva
